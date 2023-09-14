@@ -5,5 +5,6 @@
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido na disciplina de Pensamento Computacional;
 - Você pode entrar em contato comigo:
       (souza.oliveira07@escola.pr.gov.br)
- Meus melhores projetos criados:
-  
+- Meus melhores projetos criados:
+- [Scratch](https://www.Scratch.com.br/)
+- [JavaScript](https://www.JavaScript.com.br/)
